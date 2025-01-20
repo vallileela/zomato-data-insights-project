@@ -1,4 +1,4 @@
-#iporting reuired packages
+#importing required packages
 import streamlit as st
 import csv
 import mysql.connector as db
